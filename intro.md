@@ -1,15 +1,16 @@
 https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/#start
 
+Cryptocurrency:
 For the very first time in the history of the world, we have a way to generate and distribute money without a central power.
 
 Cryptocurrencies are a new form of digital money that is maintained and secured by a community, instead of by governments or banks. Crypto could only be acquired through Mining or through ICO (Initial Coin Offering )
 
-Solidity 
+Solidity: 
 
 designed for developing smart contracts that run on Ethereum. solidity- is contract oriented language. As we know in object-oriented programming we talk about classes, objects. so in solidity, we talk about contracts and functions. like in class there are lots of methods like that in solidity contract there are lots of functions. solidity is a high-level language. you can consume those functions on Ethereum virtual machines.
 
-Cosmos: The Internet of Blockchains
-
+Cosmos: 
+The Internet of Blockchains
 Cosmos is an ever-expanding ecosystem of interoperable and sovereign blockchain apps and services, built for a decentralized future. Cosmos is a project with an ambitious mission: To create a network of distributed ledgers that will solve long-standing problems in cryptocurrency. An ambitious project with the final goal of becoming the first decentralized exchange. 
 
 Cosmos is a decentralized network enabling data exchanges between different blockchains
@@ -22,7 +23,8 @@ Other popular cryptos are- Bitcoin, Ethereum, Matic, Doge
 
 The Cosmos Hub is being built by the Tendermint Core team.
 
-Inter-Blockchain Communication Protocol (IBC): designed by the Tendermint team to be an interoperable communication layer between different blockchain networks.
+Inter-Blockchain Communication Protocol (IBC): 
+designed by the Tendermint team to be an interoperable communication layer between different blockchain networks.
 
 Tendermint’s significant technical capabilities allow developers to create their own blockchain platform without having to build everything from scratch. This is helpful because it allows users to create essentially any type of blockchain system they desire — with practically everything already completed for them, except for their application logic and token. Tokens that are hosted on the Cosmos Network include Kava (KAVA), Terra (LUNA), Band Protocol (BAND), Aragon (ANT), and Akash Network (AKASH). 
 
@@ -50,55 +52,9 @@ The default consensus engine available within the SDK is Tendermint Core (opens 
 
 with cosmos SDK you can build decentralised applications.
 
-Trading segment-
+Trading segment:
 
 Trading with Crypto with API is a lot easier, lesser restrictions
-
-WazirX provides the platform to trade with spot, not with futures.
-
-open account in Binance to trade in future.
-
-First deposit INR funds to WazirX from your linked bank account
-
-Buy USDT in the WazirX platform using the INR we transferred. So everything is converted to dollars now. Transfer it to Binance.
-
-To trade bitcoin future
-
-https://www.binance.com/en-IN/futures/BTCUSDT
-
-Take a risk of 10% capital if the trade goes against you.
-
-Use swing high/swing low trend strategy. follow their rules you can earn 2 times, 33 times with this.
-
-Check overall market view, see if most coins trade in uptrend or downtrend. 
-
-There is 80+ coin to trade in futures. Select stocks that have more liquidity.
-
-MATIC moving up more than 30% with the highest volume. So I would pick this one to trade. 
-
-I would check 4 hours chart first, as per 4 hr chart, it has broken its resistance level and is poised to move up further. So if I am going to take buy order now at this level, then my levels are
-
-Entry price 2.11400
-
-Stop-loss - around 1.5
-
-risk amount - 10% of total amount
-
-quantity
-
-total amount
-
-https://wazirx.com/exchange/BTC-INR
-
-Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrencies like Bitcoin, Ethereum, and more. cryptocurrency exchange platform.
-
-https://www.coinbase.com/
-
-India’s most trusted crypto exchange
-
-https://www.unocoin.com/in
-
-What is cryptocurrency
 
 various platforms for crypto mining
 
@@ -132,13 +88,10 @@ On these platforms, users can post anything without worrying about having their 
 
 Nowadays more and more startups are emerging offering decentralized social platforms—often using blockchain technology. There are various currencies available in the market that work by using blockchain. On these platforms, you can do crypto mining.
 
-pi 
-
 Pi is a new digital currency developed by Stanford PhDs, with over 3.5 million members worldwide. 
 
 You can join the Pi network using the below link-
-
-https://minepi.com/sunnyvales  https://www.minepi.com/support
+https://www.minepi.com/support
 
 Here are the top decentralized social networks-
 
@@ -412,7 +365,7 @@ https://bitclout.com/buy-bitclout
 
 https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-use-cases/
 
-metamask
+metamask wallet:
 
 A crypto wallet & gateway to blockchain apps. If you ever create a wallet here do remember the security recovery phrase or key.
 
@@ -433,7 +386,7 @@ https://growthschool.io/web3?ref=16262056  web3 blockchain
 
 https://www.codementor.io/@beber89/write-your-own-simple-dividend-erc20-token-1rdh1wvrf4?ref=newsletter
 
-https://www.coursera.org/learn/crypto - Cryptography course
+https://www.coursera.org/learn/crypto 
 https://www.coursera.org/specializations/blockchain?aid=true
 
 indi.gg web3 game revolution
@@ -447,8 +400,16 @@ HTML and javascript are necessary for developing Dapps.
 
 cryptocurrency-> decentralized currency
 https://ens.domains/
-metamask wallet
 https://roadmap.sh/
 https://www.alchemy.com/faucets/ethereum-sepolia
 
 Blockchain Developer profile
+
+Web 1
+- Static web pages
+Web 2
+- Dynamic web applications
+Web 3
+Based on interacting smart contract
+- Native payments
+- Digital ownership

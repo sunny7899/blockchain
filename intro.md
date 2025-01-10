@@ -413,3 +413,5 @@ Web 3
 Based on interacting smart contract
 - Native payments
 - Digital ownership
+
+ web3		Blockchain	cryptocurrency		Solidity	nft LLM,SLM	ML

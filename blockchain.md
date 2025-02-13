@@ -155,3 +155,7 @@ https://www.hyperledger.org/use/fabric
 Substrate is a modular framework that enables you to create purpose-built blockchains by composing custom or pre-built components.
 
 https://substrate.dev/
+
+Solana Blockchain platform -provide smart contract functionality. Its native cryptocurrency is SOL.
+
+create MVPs on these blockchain platforms.
